@@ -1,6 +1,6 @@
-# gen-ai-news-resources
+# Cureated list 
 
-
+## Newsletters
 
 - [Smol News Newsletter (Daily)](https://news.smol.ai/)
 - [Latent Space Podcast](https://pca.st/podcast/76358c70-95ec-013b-f332-0acc26574db2) ([Video format)](https://youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L&si=SAPvWN5gtfTfH9Ud))
@@ -21,25 +21,25 @@
 ## X
 
 ### Gen-AI talk
-- OpenAI
-- Anthropic
-- xAI
-- Google Deepmind
-- Hugging Face
-- Kimi.ai
-- Cerebras
-- Nvidia
-- AMD
-- Perplexity
-- Andre Karpathy
-- Pliny the Liberator
-- Derya Unutmaz (MD)
-- Francois Chollet
-- Matthew Berman
+- [OpenAI](https://x.com/OpenAI)
+- [Anthropic](https://x.com/Anthropic)
+- [xAI](https://x.com/xAI)
+- [Google Deepmind](https://x.com/OpenAI)
+- [Hugging Face](https://x.com/OpenAI)
+- [Kimi.ai](https://x.com/OpenAI)
+- [Cerebras](https://x.com/OpenAI)
+- [Nvidia](https://x.com/Nvidia)
+- [AMD](https://x.com/AMD)
+- [Perplexity](https://x.com/Perplexity)
+- [Andre Karpathy](https://x.com/OpenAI)
+- [Pliny the Liberator](https://x.com/OpenAI)
+- [Derya Unutmaz (MD)](https://x.com/OpenAI)
+- [Francois Chollet](https://x.com/OpenAI)
+- [Matthew Berman](https://x.com/OpenAI)
 
 ### AI Coding:
-- VSCode
-- GitHub
-- Roocode
-- Cline
-- Replit
+- [VSCode](https://x.com/vscode)
+- [GitHub](https://x.com/github)
+- [Roocode](https://x.com/roocode)
+- [Cline](https://x.com/cline)
+- [Replit](https://x.com/replit)
