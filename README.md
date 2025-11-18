@@ -11,11 +11,12 @@
 - [Latent Space Discord](https://discord.gg/latent-space-nee-dev-invest-822583790773862470)
 - [AI Native Dev Discord](https://ainativedev.co/gro)
 - [Simon Willison](https://simonwillison.net/)
+- [deeplearning.ai](http://deeplearning.ai/)
 
 ## Youtube
 
 - [IndiDevDan](https://www.youtube.com/@IndyDevDan)
-
+- [Sam Witteveen](https://www.youtube.com/@samwitteveenai)
 
 ## X
 
