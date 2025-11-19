@@ -28,6 +28,9 @@ Think of it as a living map:
 - [IndiDevDan](https://www.youtube.com/@IndyDevDan)
 - [Sam Witteveen](https://www.youtube.com/@samwitteveenai)
 
+## Podcasts
+[AI Daily Brief podcast](https://open.spotify.com/episode/69rZxOE31CMROmti0imBZC?si=qxroRNdFRp2NoJQcbAglew)
+
 ## X
 
 ### Gen-AI talk
