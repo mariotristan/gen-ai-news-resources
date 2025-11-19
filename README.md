@@ -23,15 +23,18 @@ Think of it as a living map:
 - [Simon Willison](https://simonwillison.net/)
 - [deeplearning.ai](http://deeplearning.ai/)
 
-## Youtube
-
-- [IndiDevDan](https://www.youtube.com/@IndyDevDan)
-- [Sam Witteveen](https://www.youtube.com/@samwitteveenai)
+## Videos 
+|Video|Platform|
+|---|---|
+|[IndiDevDan](https://www.youtube.com/@IndyDevDan)|![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)|
+|[Sam Witteveen](https://www.youtube.com/@samwitteveenai)|![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)|
 
 ## Podcasts
-[AI Daily Brief podcast](https://open.spotify.com/episode/69rZxOE31CMROmti0imBZC?si=qxroRNdFRp2NoJQcbAglew)
+|Podcast|Platform|
+|---|---|
+|[AI Daily Brief podcast](https://open.spotify.com/episode/69rZxOE31CMROmti0imBZC?si=qxroRNdFRp2NoJQcbAglew)| ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)|
 
-## X
+## X ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 ### Gen-AI talk
 - [OpenAI](https://x.com/OpenAI)
