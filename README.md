@@ -27,6 +27,7 @@ Think of it as a living map:
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 - [IndiDevDan](https://www.youtube.com/@IndyDevDan) 
 - [Sam Witteveen](https://www.youtube.com/@samwitteveenai)
+- [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
 
 
 ## Podcasts
