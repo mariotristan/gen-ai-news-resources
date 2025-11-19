@@ -64,3 +64,9 @@ Think of it as a living map:
 - [Roocode](https://x.com/roocode)
 - [Cline](https://x.com/cline)
 - [Replit](https://x.com/replit)
+
+
+## Github Repos 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- [n8n workflows](https://github.com/Zie619/n8n-workflows)
