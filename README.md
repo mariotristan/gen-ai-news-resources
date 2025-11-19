@@ -34,6 +34,8 @@ Think of it as a living map:
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 - [AI Daily Brief podcast](https://open.spotify.com/episode/69rZxOE31CMROmti0imBZC?si=qxroRNdFRp2NoJQcbAglew)
+- [No Priors - Elad Gil and Sarah Guo](https://open.spotify.com/show/0O65xhqvGVhpgdIrrdlEYk)
+- [Hanselminutes](https://open.spotify.com/show/4SrTUZr1s5C4SJmUxDIUDc)
 
 ## Social Media 
 
