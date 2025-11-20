@@ -39,9 +39,9 @@ Think of it as a living map:
 - [AI Daily Brief podcast](https://open.spotify.com/episode/69rZxOE31CMROmti0imBZC?si=qxroRNdFRp2NoJQcbAglew)
 - [No Priors - Elad Gil and Sarah Guo](https://open.spotify.com/show/0O65xhqvGVhpgdIrrdlEYk)
 - [Hanselminutes](https://open.spotify.com/show/4SrTUZr1s5C4SJmUxDIUDc)
-- Practical AI - Industry insiders and insights
-- Hard Fork - Tech news, but heavy focus on AI
-- Beyond the Prompt - Entrepreneur Focused
+- [Practical AI - Industry insiders and insights](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
+- [Hard Fork - Tech news, but heavy focus on AI](https://open.spotify.com/episode/5zMyP7We7QideT69KfLVi6)
+- [Beyond the Prompt - Entrepreneur Focused](https://open.spotify.com/show/2TnArU2YYSi1vdfEcoK1Qh)
 
 ## Social Media 
 
