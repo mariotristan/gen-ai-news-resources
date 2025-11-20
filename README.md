@@ -79,3 +79,4 @@ Think of it as a living map:
 
 ## Books
 [A Brief History of Intelligence](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/B0BCC76563/)
+[A Human's Guide to Machine Intelligence: How Algorithms Are Shaping Our Lives and How We Can Stay in Control](https://www.amazon.com/dp/0525560882)
