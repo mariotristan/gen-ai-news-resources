@@ -22,20 +22,26 @@ Think of it as a living map:
 - [AI Native Dev Discord](https://ainativedev.co/gro)
 - [Simon Willison](https://simonwillison.net/)
 - [deeplearning.ai](http://deeplearning.ai/)
+- [One Useful Thing](https://www.oneusefulthing.org/)
 
 ## Videos 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 - [IndiDevDan](https://www.youtube.com/@IndyDevDan) 
 - [Sam Witteveen](https://www.youtube.com/@samwitteveenai)
 - [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
-
-
+- [ AI Search](https://www.youtube.com/@theAIsearch)
+-  [Visual Studio Code](http://youtube.com/watch?v=hPKDV5N99GU&sttick=0)
+- [AI for Humans](https://www.youtube.com/@AIForHumansShow)
+  
 ## Podcasts
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 - [AI Daily Brief podcast](https://open.spotify.com/episode/69rZxOE31CMROmti0imBZC?si=qxroRNdFRp2NoJQcbAglew)
 - [No Priors - Elad Gil and Sarah Guo](https://open.spotify.com/show/0O65xhqvGVhpgdIrrdlEYk)
 - [Hanselminutes](https://open.spotify.com/show/4SrTUZr1s5C4SJmUxDIUDc)
+- Practical AI - Industry insiders and insights
+- Hard Fork - Tech news, but heavy focus on AI
+- Beyond the Prompt - Entrepreneur Focused
 
 ## Social Media 
 
@@ -70,3 +76,6 @@ Think of it as a living map:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 - [n8n workflows](https://github.com/Zie619/n8n-workflows)
+
+## Books
+[A Brief History of Intelligence](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/B0BCC76563/)
