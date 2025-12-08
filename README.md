@@ -12,9 +12,9 @@ Think of it as a living map:
 
 ## Newsletters
 
-- [Turing Post](https://www.turingpost.com/) :new:
-- [Superhuman AI newsletter](https://www.superhuman.ai/) :new:
-- [The Rundown AI](https://www.therundown.ai/) :new:
+- [Turing Post](https://www.turingpost.com/) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
+- [Superhuman AI newsletter](https://www.superhuman.ai/) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
+- [The Rundown AI](https://www.therundown.ai/) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
 - [Smol News Newsletter (Daily)](https://news.smol.ai/)
 - [Latent Space Podcast](https://pca.st/podcast/76358c70-95ec-013b-f332-0acc26574db2) ([Video format)](https://youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L&si=SAPvWN5gtfTfH9Ud))
 - [AI that Works (BAML) Podcast](https://boundaryml.com/podcast)
