@@ -35,6 +35,7 @@ Think of it as a living map:
 - [ AI Search](https://www.youtube.com/@theAIsearch)
 - [Visual Studio Code](http://youtube.com/watch?v=hPKDV5N99GU&sttick=0)
 - [AI for Humans](https://www.youtube.com/@AIForHumansShow)
+- [Turing Post](https://www.youtube.com/@RealTuringPost) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
 
 ## Documentaries 
 - [AlphaGo - The Movie ](https://www.youtube.com/watch?v=WXuK6gekU1Y) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
