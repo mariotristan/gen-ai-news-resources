@@ -33,8 +33,11 @@ Think of it as a living map:
 - [Sam Witteveen](https://www.youtube.com/@samwitteveenai)
 - [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
 - [ AI Search](https://www.youtube.com/@theAIsearch)
--  [Visual Studio Code](http://youtube.com/watch?v=hPKDV5N99GU&sttick=0)
+- [Visual Studio Code](http://youtube.com/watch?v=hPKDV5N99GU&sttick=0)
 - [AI for Humans](https://www.youtube.com/@AIForHumansShow)
+
+## Documentaries 
+- [The Thinking Game](https://www.youtube.com/watch?v=d95J8yzvjbQ) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
   
 ## Podcasts
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
