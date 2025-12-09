@@ -37,6 +37,7 @@ Think of it as a living map:
 - [AI for Humans](https://www.youtube.com/@AIForHumansShow)
 
 ## Documentaries 
+- [AlphaGo - The Movie ](https://www.youtube.com/watch?v=WXuK6gekU1Y) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
 - [The Thinking Game](https://www.youtube.com/watch?v=d95J8yzvjbQ) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
   
 ## Podcasts
@@ -87,3 +88,6 @@ Think of it as a living map:
 - [A Brief History of Intelligence](https://www.amazon.com/Brief-History-Intelligence-Humans-Breakthroughs/dp/B0BCC76563/)
 - [A Human's Guide to Machine Intelligence: How Algorithms Are Shaping Our Lives and How We Can Stay in Control](https://www.amazon.com/dp/0525560882)
 - [Rebooting AI: Building Artificial Intelligence We Can Trust](https://a.co/d/6pr9b8m)
+
+## Papers
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
