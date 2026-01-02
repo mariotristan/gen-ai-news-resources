@@ -12,9 +12,9 @@ Think of it as a living map:
 
 ## Newsletters
 
-- [Turing Post](https://www.turingpost.com/) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
-- [Superhuman AI newsletter](https://www.superhuman.ai/) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
-- [The Rundown AI](https://www.therundown.ai/) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
+- [Turing Post](https://www.turingpost.com/)
+- [Superhuman AI newsletter](https://www.superhuman.ai/) 
+- [The Rundown AI](https://www.therundown.ai/)
 - [Smol News Newsletter (Daily)](https://news.smol.ai/)
 - [Latent Space Podcast](https://pca.st/podcast/76358c70-95ec-013b-f332-0acc26574db2) ([Video format)](https://youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L&si=SAPvWN5gtfTfH9Ud))
 - [AI that Works (BAML) Podcast](https://boundaryml.com/podcast)
@@ -35,11 +35,22 @@ Think of it as a living map:
 - [ AI Search](https://www.youtube.com/@theAIsearch)
 - [Visual Studio Code](http://youtube.com/watch?v=hPKDV5N99GU&sttick=0)
 - [AI for Humans](https://www.youtube.com/@AIForHumansShow)
-- [Turing Post](https://www.youtube.com/@RealTuringPost) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
+- [Turing Post](https://www.youtube.com/@RealTuringPost)  
+
+## Courses
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+- [Stanford CS329H: Machine Learning from Human Preferences](https://www.youtube.com/playlist?list=PLoROMvodv4rNm525zyAObP4al43WAifZz)
+- [Stanford CS229M: Machine Learning Theory - Fall 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
+- [Stanford CS229: Machine Learning Full Course taught by Andrew Ng ](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Stanford CS224U: Natural Language Understanding ](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+- [Stanford CS224N Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
+- [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
+- [Stanford CS230: Deep Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+- [Stanford CS221: Artificial Intelligence: Principles and Techniques](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
 
 ## Documentaries 
-- [AlphaGo - The Movie ](https://www.youtube.com/watch?v=WXuK6gekU1Y) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
-- [The Thinking Game](https://www.youtube.com/watch?v=d95J8yzvjbQ) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
+- [AlphaGo - The Movie ](https://www.youtube.com/watch?v=WXuK6gekU1Y)  
+- [The Thinking Game](https://www.youtube.com/watch?v=d95J8yzvjbQ)
   
 ## Podcasts
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
@@ -91,4 +102,4 @@ Think of it as a living map:
 - [Rebooting AI: Building Artificial Intelligence We Can Trust](https://a.co/d/6pr9b8m)
 
 ## Papers
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) <img src="https://cdn-icons-png.flaticon.com/512/179/179452.png" alt="drawing" width="20"/>
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)  
